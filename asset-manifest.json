@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tryCarfront/static/css/main.073c9b0a.css",
+    "main.js": "/tryCarfront/static/js/main.65915594.js",
+    "static/js/787.fab3f619.chunk.js": "/tryCarfront/static/js/787.fab3f619.chunk.js",
+    "index.html": "/tryCarfront/index.html",
+    "main.073c9b0a.css.map": "/tryCarfront/static/css/main.073c9b0a.css.map",
+    "main.65915594.js.map": "/tryCarfront/static/js/main.65915594.js.map",
+    "787.fab3f619.chunk.js.map": "/tryCarfront/static/js/787.fab3f619.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.65915594.js"
+  ]
+}
